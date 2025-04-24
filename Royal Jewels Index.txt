@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Royal Color Jewels</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="hero">
+        <h1 class="display-4">Royal Color Jewels</h1>
+        <p class="tagline">Certified. Custom. Yours in 7 Days.</p>
+        <p><span class="highlight">Jewels That Speak. Value That Lasts.</span></p>
+        <p>Tested & Certified | Global Delivery | Buyback up to 60%</p>
+        <small>*Terms & Conditions apply</small>
+    </div>
+
+    <div class="container info-section">
+        <h2>Why Choose Us?</h2>
+        <ul>
+            <li>Worldwide shipping in 7 days</li>
+            <li>100% certified and tested gemstones</li>
+            <li>Buyback up to 60% of the original value</li>
+            <li>Invest in jewellery that’s more than luxury—it’s your asset</li>
+        </ul>
+
+        <h2>Send Us Your Requirements</h2>
+        <form id="contactForm">
+            <div class="form-group">
+                <label for="name">Full Name</label>
+                <input type="text" class="form-control" id="name" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email Address</label>
+                <input type="email" class="form-control" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="message">Your Request</label>
+                <textarea class="form-control" id="message" name="message" rows="4" required></textarea>
+            </div>
+            <button type="submit" class="btn btn-dark">Send Request</button>
+        </form>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2025 Royal Color Jewels. All rights reserved.</p>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
+

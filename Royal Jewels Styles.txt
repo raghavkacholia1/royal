@@ -1,0 +1,34 @@
+body {
+    background-color: #fdf6f0;
+    color: #4b3a2f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hero {
+    background-color: #fff3e0;
+    padding: 60px 20px;
+    text-align: center;
+}
+.tagline {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+.highlight {
+    font-weight: bold;
+    color: #af8260;
+}
+.info-section {
+    padding: 40px 20px;
+}
+.footer {
+    background-color: #4b3a2f;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+form .form-group label {
+    font-weight: 600;
+}
+form .btn {
+    margin-top: 10px;
+}
