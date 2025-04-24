@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Royal Color Jewels</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #fdf6f0;
+            color: #4b3a2f;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .hero {
+            background-color: #fff3e0;
+            padding: 60px 20px;
+            text-align: center;
+        }
+        .tagline {
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #af8260;
+        }
+        .info-section {
+            padding: 40px 20px;
+        }
+        .footer {
+            background-color: #4b3a2f;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <h1 class="display-4">Royal Color Jewels</h1>
+        <p class="tagline">Certified. Custom. Yours in 7 Days.</p>
+        <p><span class="highlight">Jewels That Speak. Value That Lasts.</span></p>
+        <p>Tested & Certified | Global Delivery | Buyback up to 60%</p>
+        <small>*Terms & Conditions apply</small>
+    </div>
+
+    <div class="container info-section">
+        <h2>Why Choose Us?</h2>
+        <ul>
+            <li>Worldwide shipping in 7 days</li>
+            <li>100% certified and tested gemstones</li>
+            <li>Buyback up to 60% of the original value</li>
+            <li>Invest in jewellery that’s more than luxury—it’s your asset</li>
+        </ul>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2025 Royal Color Jewels. All rights reserved.</p>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
